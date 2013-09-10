@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ShakyTime</string>
+    <string name="dummy_button">Change Animal</string>
+    <string name="dummy_content">SHAKY\nCONTENT</string>
+
+</resources>
